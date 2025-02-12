@@ -1,1 +1,10 @@
-/* Start coding here */
+.registration-form #email {
+    background-color: lightgray;
+}
+input:hover {
+    border-color: khaki;
+ }
+
+button:hover {
+    color: pink;
+ }
